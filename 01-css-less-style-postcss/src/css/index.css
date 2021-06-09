@@ -1,0 +1,11 @@
+/* 测试postcss是否会加css前缀 */
+:fullscreen {
+    font-size: 24px;
+}
+
+.content {
+    /* 78是透明度,仅部分浏览器支持 */
+    background-color: #12345678;
+    width: 200px;
+    height: 200px;
+}
