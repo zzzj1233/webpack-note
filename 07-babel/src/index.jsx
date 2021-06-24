@@ -6,7 +6,7 @@ class App extends React.Component {
     constructor(prop) {
         super(prop)
         this.state = {
-            title: "hello React"
+            title: 'hello React'
         }
     }
 
